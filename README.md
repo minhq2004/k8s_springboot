@@ -13,6 +13,18 @@ Github action:
 Build image in Docker Hub:
 ![images.png](img/images.png)
 
+Container of ArgoCD:
+![containerArgo.png](img/containerArgo.png)
+
+Create application in ArgoCD: 
+![argoCDhome.png](img/argoCDhome.png)
+
+Application synced and healthy:
+![argocd.png](img/argocd.png)
+
+Pods running, ArgoCD deploy successfully:
+![pod.png](img/pod.png)
+
 # Bài tập Spring Boot – Kubernetes
 
 Deploying To Kubernetes:
