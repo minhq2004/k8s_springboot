@@ -25,6 +25,15 @@ Application synced and healthy:
 Pods running, ArgoCD deploy successfully:
 ![pod.png](img/pod.png)
 
+Rerun application:
+![rerun.png](img/rerun.png)
+
+Forward port:
+![postman.png](img/postman.png)
+
+GET API Postman:
+![forward.png](img/forward.png)
+
 # Bài tập Spring Boot – Kubernetes
 
 Deploying To Kubernetes:
